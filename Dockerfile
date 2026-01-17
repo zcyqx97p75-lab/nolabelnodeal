@@ -1,13 +1,10 @@
-FROM python:3.12-slim
+FROM node:20-alpine
 
 WORKDIR /app
 
-# Kopiere alle Dateien
-COPY . .
+COPY server.js package.json ./
 
-# Exponiere den Port (Railway setzt PORT automatisch)
-ENV PORT=8080
-EXPOSE $PORT
+ENV PORT=3000
+EXPOSE 3000
 
-# Starte den HTTP-Server mit PORT aus Umgebungsvariable
-CMD python3 -m http.server $PORT
+CMD ["node", "server.js"]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS files
 .DS_Store
 .DS_Store?
@@ -28,3 +29,6 @@ styles_temp.css
 .cursor/plans/
 
 
+=======
+.DS_Store
+>>>>>>> 419882f (Add .gitignore for macOS)

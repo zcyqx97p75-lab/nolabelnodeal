@@ -1,0 +1,567 @@
+# Rotierende Texte für Hero-Section
+# Diese 6 Texte rotieren alle 3 Sekunden in der Hero-Section
+
+
+
+## 🇩🇪 Deutsch
+
+1. **Konsument**
+   Zu wissen, woher unser Essen kommt, ist ein Grundrecht.
+   👉 Fordere es jetzt ein und kontaktiere deinen EU-Mandatar.
+
+2. **Bauer**
+   Wer nach europäischen Regeln produziert, verdient Fairness.
+   👉 Fordere Herkunftskennzeichnung und kontaktiere deinen EU-Mandatar.
+
+3. **Konsument**
+   Transparenz beim Essen ist kein Extra, sondern dein Recht.
+   👉 Mach es geltend – schreib deinem EU-Abgeordneten.
+
+4. **Bauer**
+   Gleiche Regeln für alle – auch bei Importen.
+   👉 Jetzt aktiv werden und deinen EU-Abgeordneten kontaktieren.
+
+5. **Konsument**
+   Ohne Herkunft keine echte Wahlfreiheit für Konsumenten.
+   👉 Fordere Klarheit und kontaktiere jetzt deinen EU-Mandatar.
+
+6. **Bauer**
+   Unsere Produktion braucht Transparenz, nicht Ausreden.
+   👉 Fordere Herkunftskennzeichnung – kontaktiere deinen EU-Mandatar.
+
+---
+
+## 🇬🇧 English
+
+1. **Consumer**
+   Knowing where our food comes from is a fundamental right.
+   👉 Claim it now and contact your EU representative.
+
+2. **Farmer**
+   Those who produce under European rules deserve fairness.
+   👉 Demand origin labelling and contact your EU representative.
+
+3. **Consumer**
+   Transparency in food is not a bonus, it’s your right.
+   👉 Act now – write to your EU representative.
+
+4. **Farmer**
+   Equal rules for everyone – including imports.
+   👉 Take action now and contact your EU representative.
+
+5. **Consumer**
+   Without origin, there is no real freedom of choice.
+   👉 Demand clarity and contact your EU representative now.
+
+6. **Farmer**
+   Our production needs transparency, not excuses.
+   👉 Demand origin labelling – contact your EU representative.
+
+---
+
+## 🇫🇷 Français
+
+1. **Consommateur**
+   Savoir d’où vient notre nourriture est un droit fondamental.
+   👉 Exigez-le maintenant et contactez votre député européen.
+
+2. **Agriculteur**
+   Produire selon les règles européennes mérite de l’équité.
+   👉 Exigez l’indication d’origine et contactez votre député européen.
+
+3. **Consommateur**
+   La transparence alimentaire n’est pas un bonus, c’est un droit.
+   👉 Agissez maintenant – écrivez à votre député européen.
+
+4. **Agriculteur**
+   Les mêmes règles pour tous – y compris les importations.
+   👉 Passez à l’action et contactez votre député européen.
+
+5. **Consommateur**
+   Sans origine, pas de véritable liberté de choix.
+   👉 Exigez la clarté et contactez votre député européen.
+
+6. **Agriculteur**
+   Notre production a besoin de transparence, pas d’excuses.
+   👉 Exigez l’origine – contactez votre député européen.
+
+---
+
+## 🇮🇹 Italiano
+
+1. **Consumatore**
+   Sapere da dove viene il nostro cibo è un diritto fondamentale.
+   👉 Pretendilo ora e contatta il tuo eurodeputato.
+
+2. **Agricoltore**
+   Chi produce secondo le regole europee merita equità.
+   👉 Chiedi l’etichettatura di origine e contatta il tuo eurodeputato.
+
+3. **Consumatore**
+   La trasparenza alimentare non è un extra, è un diritto.
+   👉 Agisci ora – scrivi al tuo eurodeputato.
+
+4. **Agricoltore**
+   Stesse regole per tutti – anche per le importazioni.
+   👉 Agisci ora e contatta il tuo eurodeputato.
+
+5. **Consumatore**
+   Senza origine non c’è vera libertà di scelta.
+   👉 Chiedi chiarezza e contatta ora il tuo eurodeputato.
+
+6. **Agricoltore**
+   La nostra produzione ha bisogno di trasparenza, non di scuse.
+   👉 Chiedi l’origine – contatta il tuo eurodeputato.
+
+---
+
+## 🇪🇸 Español
+
+1. **Consumidor**
+   Saber de dónde viene nuestra comida es un derecho fundamental.
+   👉 Exígelo ahora y contacta a tu eurodiputado.
+
+2. **Agricultor**
+   Quien produce según las normas europeas merece justicia.
+   👉 Exige el etiquetado de origen y contacta a tu eurodiputado.
+
+3. **Consumidor**
+   La transparencia alimentaria no es un extra, es un derecho.
+   👉 Actúa ahora – escribe a tu eurodiputado.
+
+4. **Agricultor**
+   Las mismas reglas para todos, también para las importaciones.
+   👉 Actúa ahora y contacta a tu eurodiputado.
+
+5. **Consumidor**
+   Sin origen no hay verdadera libertad de elección.
+   👉 Exige claridad y contacta ahora a tu eurodiputado.
+
+6. **Agricultor**
+   Nuestra producción necesita transparencia, no excusas.
+   👉 Exige el origen – contacta a tu eurodiputado.
+
+---
+
+## 🇵🇹 Português
+
+1. **Consumidor**
+   Saber de onde vem a nossa comida é um direito fundamental.
+   👉 Exija agora e contacte o seu eurodeputado.
+
+2. **Agricultor**
+   Quem produz segundo as regras europeias merece justiça.
+   👉 Exija a rotulagem de origem e contacte o seu eurodeputado.
+
+3. **Consumidor**
+   A transparência alimentar não é um extra, é um direito.
+   👉 Atue agora – escreva ao seu eurodeputado.
+
+4. **Agricultor**
+   As mesmas regras para todos – também para as importações.
+   👉 Atue agora e contacte o seu eurodeputado.
+
+5. **Consumidor**
+   Sem origem não há verdadeira liberdade de escolha.
+   👉 Exija clareza e contacte agora o seu eurodeputado.
+
+6. **Agricultor**
+   A nossa produção precisa de transparência, não de desculpas.
+   👉 Exija a origem – contacte o seu eurodeputado.
+
+---
+
+## 🇳🇱 Nederlands
+
+1. **Consument**
+   Weten waar ons voedsel vandaan komt is een grondrecht.
+   👉 Eis het nu en neem contact op met je EU-vertegenwoordiger.
+
+2. **Boer**
+   Wie volgens Europese regels produceert, verdient eerlijkheid.
+   👉 Eis herkomstetikettering en neem contact op met je EU-vertegenwoordiger.
+
+3. **Consument**
+   Voedseltransparantie is geen extra, maar een recht.
+   👉 Onderneem actie – schrijf je EU-vertegenwoordiger.
+
+4. **Boer**
+   Gelijke regels voor iedereen – ook voor import.
+   👉 Kom in actie en neem contact op met je EU-vertegenwoordiger.
+
+5. **Consument**
+   Zonder herkomst geen echte keuzevrijheid.
+   👉 Eis duidelijkheid en neem nu contact op.
+
+6. **Boer**
+   Onze productie heeft transparantie nodig, geen excuses.
+   👉 Eis herkomst – neem contact op met je EU-vertegenwoordiger.
+
+---
+
+## 🇵🇱 Polski
+
+1. **Konsument**
+   Wiedza o pochodzeniu żywności to prawo podstawowe.
+   👉 Domagaj się go teraz i skontaktuj się z europosłem.
+
+2. **Rolnik**
+   Produkcja zgodna z europejskimi zasadami zasługuje na uczciwość.
+   👉 Żądaj oznaczenia pochodzenia i skontaktuj się z europosłem.
+
+3. **Konsument**
+   Przejrzystość żywności to nie dodatek, to prawo.
+   👉 Działaj teraz – napisz do europosła.
+
+4. **Rolnik**
+   Równe zasady dla wszystkich – także dla importu.
+   👉 Działaj teraz i skontaktuj się z europosłem.
+
+5. **Konsument**
+   Bez pochodzenia nie ma prawdziwego wyboru.
+   👉 Żądaj jasności i skontaktuj się teraz.
+
+6. **Rolnik**
+   Nasza produkcja potrzebuje przejrzystości, nie wymówek.
+   👉 Żądaj pochodzenia – skontaktuj się z europosłem.
+
+---
+
+## 🇨🇿 Čeština
+
+1. **Spotřebitel**
+   Vědět, odkud pochází naše jídlo, je základní právo.
+   👉 Požadujte ho nyní a kontaktujte svého europoslance.
+
+2. **Zemědělec**
+   Kdo vyrábí podle evropských pravidel, zaslouží spravedlnost.
+   👉 Požadujte označení původu a kontaktujte europoslance.
+
+3. **Spotřebitel**
+   Transparentnost potravin není bonus, ale právo.
+   👉 Jednejte – napište europoslanci.
+
+4. **Zemědělec**
+   Stejná pravidla pro všechny – i pro dovoz.
+   👉 Jednejte a kontaktujte europoslance.
+
+5. **Spotřebitel**
+   Bez původu není skutečná svoboda volby.
+   👉 Požadujte jasnost hned teď.
+
+6. **Zemědělec**
+   Naše výroba potřebuje transparentnost, ne výmluvy.
+   👉 Požadujte původ – kontaktujte europoslance.
+
+---
+
+## 🇸🇰 Slovensky
+
+1. **Spotrebiteľ**
+   Vedieť, odkiaľ pochádza naše jedlo, je základné právo.
+   👉 Žiadajte ho teraz a kontaktujte europoslanca.
+
+2. **Farmár**
+   Kto vyrába podľa európskych pravidiel, zaslúži si férovosť.
+   👉 Žiadajte označenie pôvodu a kontaktujte europoslanca.
+
+3. **Spotrebiteľ**
+   Transparentnosť potravín nie je bonus, ale právo.
+   👉 Konajte – napíšte europoslancovi.
+
+4. **Farmár**
+   Rovnaké pravidlá pre všetkých – aj pre dovoz.
+   👉 Konajte a kontaktujte europoslanca.
+
+5. **Spotrebiteľ**
+   Bez pôvodu niet skutočnej slobody voľby.
+   👉 Žiadajte jasnosť hneď teraz.
+
+6. **Farmár**
+   Naša výroba potrebuje transparentnosť, nie výhovorky.
+   👉 Žiadajte pôvod – kontaktujte europoslanca.
+
+---
+
+## 🇭🇺 Magyar
+
+1. **Fogyasztó**
+   Tudni, honnan származik az élelmiszerünk, alapvető jog.
+   👉 Követeld most, és vedd fel a kapcsolatot az EP-képviselőddel.
+
+2. **Gazda**
+   Az európai szabályok szerint termelők méltányosságot érdemelnek.
+   👉 Követeld az eredetjelölést és keresd meg az EP-képviselőt.
+
+3. **Fogyasztó**
+   Az élelmiszer-átláthatóság nem extra, hanem jog.
+   👉 Cselekedj – írj az EP-képviselődnek.
+
+4. **Gazda**
+   Azonos szabályok mindenkinek – az importnak is.
+   👉 Cselekedj most és lépj kapcsolatba az EP-képviselővel.
+
+5. **Fogyasztó**
+   Eredet nélkül nincs valódi választási szabadság.
+   👉 Követeld az átláthatóságot most.
+
+6. **Gazda**
+   A termelésünknek átláthatóság kell, nem kifogás.
+   👉 Követeld az eredetet – keresd az EP-képviselőt.
+
+---
+
+## 🇷🇴 Română
+
+1. **Consumator**
+   A ști de unde provine mâncarea noastră este un drept fundamental.
+   👉 Cere-l acum și contactează europarlamentarul tău.
+
+2. **Fermier**
+   Cei care produc după reguli europene merită corectitudine.
+   👉 Cere etichetarea originii și contactează europarlamentarul.
+
+3. **Consumator**
+   Transparența alimentară nu este un bonus, ci un drept.
+   👉 Acționează – scrie europarlamentarului.
+
+4. **Fermier**
+   Aceleași reguli pentru toți – inclusiv pentru importuri.
+   👉 Acționează acum și contactează europarlamentarul.
+
+5. **Consumator**
+   Fără origine nu există libertate reală de alegere.
+   👉 Cere claritate chiar acum.
+
+6. **Fermier**
+   Producția noastră are nevoie de transparență, nu de scuze.
+   👉 Cere originea – contactează europarlamentarul.
+
+---
+
+## 🇧🇬 Български
+
+1. **Потребител**
+   Да знаем откъде идва храната ни е основно право.
+   👉 Изискайте го сега и се свържете с евродепутат.
+
+2. **Земеделец**
+   Производството по европейски правила заслужава справедливост.
+   👉 Изискайте обозначаване на произхода и се свържете с евродепутат.
+
+3. **Потребител**
+   Прозрачността на храните не е бонус, а право.
+   👉 Действайте – пишете на евродепутат.
+
+4. **Земеделец**
+   Еднакви правила за всички – и за вноса.
+   👉 Действайте сега и се свържете с евродепутат.
+
+5. **Потребител**
+   Без произход няма истински избор.
+   👉 Изискайте яснота сега.
+
+6. **Земеделец**
+   Нашето производство има нужда от прозрачност, не от оправдания.
+   👉 Изискайте произхода – свържете се с евродепутат.
+
+---
+
+## 🇭🇷 Hrvatski
+
+1. **Potrošač**
+   Znati odakle dolazi naša hrana temeljno je pravo.
+   👉 Zahtijevajte to sada i kontaktirajte svog zastupnika u EP-u.
+
+2. **Poljoprivrednik**
+   Proizvodnja prema europskim pravilima zaslužuje pravednost.
+   👉 Zahtijevajte oznaku podrijetla i kontaktirajte EP zastupnika.
+
+3. **Potrošač**
+   Transparentnost hrane nije dodatak, već pravo.
+   👉 Djelujte – pišite svom EP zastupniku.
+
+4. **Poljoprivrednik**
+   Ista pravila za sve – uključujući uvoz.
+   👉 Djelujte sada i kontaktirajte EP zastupnika.
+
+5. **Potrošač**
+   Bez podrijetla nema stvarnog izbora.
+   👉 Zahtijevajte jasnoću odmah.
+
+6. **Poljoprivrednik**
+   Našoj proizvodnji treba transparentnost, a ne izgovori.
+   👉 Zahtijevajte podrijetlo – kontaktirajte EP zastupnika.
+
+---
+
+## 🇸🇮 Slovenščina
+
+1. **Potrošnik**
+   Vedeti, od kod prihaja naša hrana, je temeljna pravica.
+   👉 Zahtevajte jo zdaj in kontaktirajte evropskega poslanca.
+
+2. **Kmet**
+   Proizvodnja po evropskih pravilih si zasluži pravičnost.
+   👉 Zahtevajte označbo porekla in kontaktirajte evropskega poslanca.
+
+3. **Potrošnik**
+   Preglednost hrane ni dodatek, temveč pravica.
+   👉 Ukrepajte – pišite evropskemu poslancu.
+
+4. **Kmet**
+   Enaka pravila za vse – tudi za uvoz.
+   👉 Ukrepajte zdaj in kontaktirajte evropskega poslanca.
+
+5. **Potrošnik**
+   Brez porekla ni prave izbire.
+   👉 Zahtevajte jasnost zdaj.
+
+6. **Kmet**
+   Naša proizvodnja potrebuje preglednost, ne izgovorov.
+   👉 Zahtevajte poreklo – kontaktirajte evropskega poslanca.
+
+---
+
+## 🇱🇹 Lietuvių
+
+1. **Vartotojas**
+   Žinoti, iš kur kilęs mūsų maistas, yra pagrindinė teisė.
+   👉 Reikalauk dabar ir susisiek su europarlamentaru.
+
+2. **Ūkininkas**
+   Gamyba pagal ES taisykles nusipelno teisingumo.
+   👉 Reikalauk kilmės ženklinimo ir susisiek su europarlamentaru.
+
+3. **Vartotojas**
+   Maisto skaidrumas nėra priedas, tai teisė.
+   👉 Veik dabar – rašyk europarlamentarui.
+
+4. **Ūkininkas**
+   Vienodos taisyklės visiems – ir importui.
+   👉 Veik dabar ir susisiek su europarlamentaru.
+
+5. **Vartotojas**
+   Be kilmės nėra tikro pasirinkimo.
+   👉 Reikalauk aiškumo dabar.
+
+6. **Ūkininkas**
+   Mūsų gamybai reikia skaidrumo, ne pasiteisinimų.
+   👉 Reikalauk kilmės – susisiek su europarlamentaru.
+
+---
+
+## 🇱🇻 Latviešu
+
+1. **Patērētājs**
+   Zināt, no kurienes nāk mūsu pārtika, ir pamattiesības.
+   👉 Pieprasi to tagad un sazinies ar Eiropas Parlamenta deputātu.
+
+2. **Lauksaimnieks**
+   Ražošana pēc ES noteikumiem ir pelnījusi taisnīgumu.
+   👉 Pieprasi izcelsmes marķējumu un sazinies ar deputātu.
+
+3. **Patērētājs**
+   Pārtikas caurspīdīgums nav ekstra, tā ir tiesība.
+   👉 Rīkojies – raksti deputātam.
+
+4. **Lauksaimnieks**
+   Vienādi noteikumi visiem – arī importam.
+   👉 Rīkojies tagad un sazinies ar deputātu.
+
+5. **Patērētājs**
+   Bez izcelsmes nav īstas izvēles brīvības.
+   👉 Pieprasi skaidrību tagad.
+
+6. **Lauksaimnieks**
+   Mūsu ražošanai vajadzīga caurspīdība, ne attaisnojumi.
+   👉 Pieprasi izcelsmi – sazinies ar deputātu.
+
+---
+
+## 🇪🇪 Eesti
+
+1. **Tarbijа**
+   Teadmine, kust meie toit pärineb, on põhiõigus.
+   👉 Nõua seda nüüd ja võta ühendust oma Euroopa Parlamendi saadikuga.
+
+2. **Põllumees**
+   Euroopa reeglite järgi tootmine väärib õiglust.
+   👉 Nõua päritolumärgistust ja võta ühendust saadikuga.
+
+3. **Tarbijа**
+   Toidu läbipaistvus ei ole boonus, vaid õigus.
+   👉 Tegutse – kirjuta oma saadikule.
+
+4. **Põllumees**
+   Võrdsed reeglid kõigile – ka impordile.
+   👉 Tegutse nüüd ja võta ühendust saadikuga.
+
+5. **Tarbijа**
+   Ilma päritoluta pole tegelikku valikuvabadust.
+   👉 Nõua selgust kohe.
+
+6. **Põllumees**
+   Meie tootmine vajab läbipaistvust, mitte vabandusi.
+   👉 Nõua päritolu – võta ühendust saadikuga.
+
+---
+
+## 🇲🇹 Malti
+
+1. **Konsumatur**
+   Li tkun taf minn fejn ġej l-ikel tagħna huwa dritt fundamentali.
+   👉 Itlobha issa u ikkuntattja lill-MEP tiegħek.
+
+2. **Bidwi**
+   Produzzjoni skont ir-regoli Ewropej tixraqlha ġustizzja.
+   👉 Itlob tikkettar tal-oriġini u ikkuntattja lill-MEP tiegħek.
+
+3. **Konsumatur**
+   It-trasparenza tal-ikel mhix extra, hija dritt.
+   👉 Aġixxi – ikteb lill-MEP tiegħek.
+
+4. **Bidwi**
+   L-istess regoli għal kulħadd – anke għall-importazzjonijiet.
+   👉 Aġixxi issa u ikkuntattja lill-MEP tiegħek.
+
+5. **Konsumatur**
+   Mingħajr oriġini m’hemmx għażla vera.
+   👉 Itlob ċarezza issa.
+
+6. **Bidwi**
+   Il-produzzjoni tagħna teħtieġ trasparenza, mhux skużi.
+   👉 Itlob l-oriġini – ikkuntattja lill-MEP tiegħek.
+
+---
+
+## 🇬🇷 Ελληνικά
+
+1. **Καταναλωτής**
+   Το να γνωρίζουμε από πού προέρχεται το φαγητό μας είναι θεμελιώδες δικαίωμα.
+   👉 Διεκδίκησέ το τώρα και επικοινώνησε με τον ευρωβουλευτή σου.
+
+2. **Αγρότης**
+   Η παραγωγή σύμφωνα με τους ευρωπαϊκούς κανόνες αξίζει δικαιοσύνη.
+   👉 Απαίτησε σήμανση προέλευσης και επικοινώνησε με τον ευρωβουλευτή σου.
+
+3. **Καταναλωτής**
+   Η διαφάνεια στα τρόφιμα δεν είναι προνόμιο, είναι δικαίωμα.
+   👉 Δράσε – γράψε στον ευρωβουλευτή σου.
+
+4. **Αγρότης**
+   Ίδιοι κανόνες για όλους – και για τις εισαγωγές.
+   👉 Δράσε τώρα και επικοινώνησε με τον ευρωβουλευτή σου.
+
+5. **Καταναλωτής**
+   Χωρίς προέλευση δεν υπάρχει πραγματική επιλογή.
+   👉 Απαίτησε διαφάνεια τώρα.
+
+6. **Αγρότης**
+   Η παραγωγή μας χρειάζεται διαφάνεια, όχι δικαιολογίες.
+   👉 Απαίτησε την προέλευση – επικοινώνησε με τον ευρωβουλευτή σου.
+
+---
+
+
+

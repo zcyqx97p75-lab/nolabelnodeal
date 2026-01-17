@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["python3"]
+
+[phases.install]
+cmds = ["python3 --version"]
+
+[start]
+cmd = "python3 -m http.server ${PORT}"

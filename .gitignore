@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+*.temp
+
+# Backup files
+*.bak
+*_backup
+styles_temp.css
+
+# Plan files (optional - can be included if needed)
+.cursor/plans/
+
+

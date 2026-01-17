@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>no label no deal</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Translate Widget -->
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            try {
+                console.log('[Translate] Init start');
+                if (typeof google === 'undefined' || !google.translate) {
+                    console.error('[Translate] Google Translate API not available on init');
+                    return;
+                }
+                const targetEl = document.getElementById('google_translate_element');
+                console.log('[Translate] Target element exists:', !!targetEl);
+                console.log('[Translate] Included languages:', 'de,en,fr,es,it,pl,nl,pt,cs,hu,sk,sl,hr,ro,bg,da,sv,fi,lt,lv,et,mt,el,ga');
+                new google.translate.TranslateElement({
+                    pageLanguage: 'en',
+                    includedLanguages: 'de,en,fr,es,it,pl,nl,pt,cs,hu,sk,sl,hr,ro,bg,da,sv,fi,lt,lv,et,mt,el,ga',
+                    layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL,
+                    autoDisplay: false
+                }, 'google_translate_element');
+                console.log('[Translate] Init done');
+                setTimeout(() => {
+                    const target = document.getElementById('google_translate_element');
+                    console.log('[Translate] Widget HTML:', target ? target.innerHTML : 'missing');
+                }, 300);
+            } catch (err) {
+                console.error('[Translate] Init error', err);
+            }
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+    <a href="index.html" id="homeFab" class="home-fab notranslate" aria-label="Home">Home</a>
+    <!-- Hero-Bereich -->
+    <section class="hero notranslate" id="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="hero-text-box">
+                <p class="hero-alarm" id="heroAlarm">AFTER 19 JANUARY, THE EU PARLIAMENT DECIDES ON MERCOSUR.</p>
+                <div class="hero-accent-line"></div>
+                <h1 class="hero-headline">
+                    <span class="hero-headline-line1">NO LABEL</span>
+                    <span class="hero-headline-line2">NO DEAL</span>
+                </h1>
+                <p class="hero-subline">for Mercosur and all agreements to follow</p>
+                <div class="hero-text-rotation" id="textRotation">
+                    <p class="rotating-text active">Lade...</p>
+                </div>
+                <div class="scroll-indicator" id="scrollIndicator">
+                    <span class="scroll-finger">👇</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Petition CTA (above counter) -->
+    <section class="petition-cta-section notranslate">
+        <div class="container">
+            <button id="petitionHeroCTA" class="hero-petition-cta blink-attention">NO LABEL, NO DEAL – Mandatory Origin Labelling for Processed Foods in the EU</button>
+        </div>
+    </section>
+
+    <!-- Counter -->
+    <section class="counter-section notranslate" id="counterSection" style="display: none;">
+        <div class="container">
+            <p class="counter-text">Bereits <span id="counterValue">0</span> Menschen haben ihre EU-Abgeordneten erreicht.</p>
+            <p class="counter-text-detail" id="counterDetail" style="display: none;"></p>
+        </div>
+    </section>
+
+    <!-- Sprache & Land Auswahl -->
+    <section class="selection-section notranslate" id="languageCountrySection">
+        <div class="container">
+            <h2>Bitte wähle Sprache und Land</h2>
+            <div class="selection-grid">
+                <div class="selection-group">
+                    <label for="language">Sprache *</label>
+                    <select id="language" required>
+                        <option value="">Bitte wählen</option>
+                        <option value="bg">Български</option>
+                        <option value="cs">Čeština</option>
+                        <option value="da">Dansk</option>
+                        <option value="de">Deutsch</option>
+                        <option value="el">Ελληνικά</option>
+                        <option value="en">English</option>
+                        <option value="es">Español</option>
+                        <option value="et">Eesti</option>
+                        <option value="fi">Suomi</option>
+                        <option value="fr">Français</option>
+                        <option value="ga">Gaeilge</option>
+                        <option value="hr">Hrvatski</option>
+                        <option value="hu">Magyar</option>
+                        <option value="it">Italiano</option>
+                        <option value="lt">Lietuvių</option>
+                        <option value="lv">Latviešu</option>
+                        <option value="mt">Malti</option>
+                        <option value="nl">Nederlands</option>
+                        <option value="pl">Polski</option>
+                        <option value="pt">Português</option>
+                        <option value="ro">Română</option>
+                        <option value="sk">Slovenčina</option>
+                        <option value="sl">Slovenščina</option>
+                        <option value="sv">Svenska</option>
+                    </select>
+                </div>
+                <div class="selection-group">
+                    <label for="country">Land *</label>
+                    <select id="country" required>
+                        <option value="">Bitte wählen</option>
+                        <option value="Deutschland">Deutschland</option>
+                        <option value="Österreich">Österreich</option>
+                        <option value="Belgien">Belgien</option>
+                        <option value="Bulgarien">Bulgarien</option>
+                        <option value="Dänemark">Dänemark</option>
+                        <option value="Estland">Estland</option>
+                        <option value="Finnland">Finnland</option>
+                        <option value="Frankreich">Frankreich</option>
+                        <option value="Griechenland">Griechenland</option>
+                        <option value="Irland">Irland</option>
+                        <option value="Italien">Italien</option>
+                        <option value="Kroatien">Kroatien</option>
+                        <option value="Lettland">Lettland</option>
+                        <option value="Litauen">Litauen</option>
+                        <option value="Luxemburg">Luxemburg</option>
+                        <option value="Malta">Malta</option>
+                        <option value="Niederlande">Niederlande</option>
+                        <option value="Polen">Polen</option>
+                        <option value="Portugal">Portugal</option>
+                        <option value="Rumänien">Rumänien</option>
+                        <option value="Schweden">Schweden</option>
+                        <option value="Slowakei">Slowakei</option>
+                        <option value="Slowenien">Slowenien</option>
+                        <option value="Spanien">Spanien</option>
+                        <option value="Tschechien">Tschechien</option>
+                        <option value="Ungarn">Ungarn</option>
+                        <option value="Zypern">Zypern</option>
+                    </select>
+                </div>
+            </div>
+            <button id="continueBtn" class="btn-primary" disabled>Weiter</button>
+            <p class="hint-text">Wir fragen das, um Inhalte passend anzuzeigen. Es werden keine personenbezogenen Daten gespeichert.</p>
+        </div>
+    </section>
+
+    <!-- Rollenabfrage -->
+    <section class="role-section notranslate" id="roleSection" style="display: none;">
+        <div class="container">
+            <h2>In welcher Rolle sprichst du?</h2>
+            <div class="role-buttons">
+                <button class="btn-role" data-role="farmer">Landwirt / Produzent</button>
+                <button class="btn-role" data-role="consumer">Konsument</button>
+            </div>
+            <p class="hint-text">Die Auswahl dient nur dazu, dir einen passenden Textvorschlag anzuzeigen.</p>
+        </div>
+    </section>
+
+    <!-- Kontaktseite -->
+    <section class="contacts-section notranslate" id="contactsSection" style="display: none;">
+        <div class="contacts-container">
+            <div class="contacts-header">
+                <h2>EU-Abgeordnete kontaktieren</h2>
+                <button id="toggleAllBtn" class="btn-toggle-country">Alle EU-Mandatare anzeigen</button>
+            </div>
+
+            <!-- Filter & Suche -->
+            <div class="filters">
+                <input type="text" id="searchInput" placeholder="Nach Name suchen..." class="search-input">
+                <select id="countryFilter" class="filter-select">
+                    <option value="">Alle Länder</option>
+                </select>
+                <select id="fractionFilter" class="filter-select">
+                    <option value="">Alle Fraktionen</option>
+                </select>
+                <select id="sortSelect" class="filter-select">
+                    <option value="name">Nach Name sortieren</option>
+                    <option value="country">Nach Land sortieren</option>
+                </select>
+            </div>
+
+            <!-- Action Bar -->
+            <div class="action-bar">
+                <div class="action-bar-top">
+                    <div class="email-warning-box" id="emailWarningBox">
+                        <p class="email-warning-text" id="emailWarningText">Wichtig: Pro E-Mail nur einen Empfänger auswählen, da Nachrichten mit mehreren Adressen oft blockiert werden.</p>
+                        <p class="email-warning-text" id="emailRateLimitText" style="display: none;">Du kannst diesem Mandatar nur einmal innerhalb von 24 Stunden eine E-Mail senden. Bitte versuche es später erneut.</p>
+                    </div>
+                </div>
+                <div class="action-bar-bottom">
+                    <div class="email-buttons-container">
+                        <button id="copyEmailsBtn" class="btn-copy-primary">E-Mails kopieren</button>
+                        <button id="showTextSuggestionsBtn" class="btn-copy-primary">Textvorschläge anzeigen</button>
+                        <button id="sendEmailBtn" class="btn-copy-primary">E-Mail senden</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="copyFeedback" class="copy-feedback" style="display: none;">E-Mail-Adressen kopiert</div>
+
+            <!-- Mandatare Liste -->
+            <div id="mandatareList" class="mandatare-list"></div>
+
+            <!-- Textvorschläge -->
+            <div class="text-suggestions-section">
+                <div class="text-suggestions-hint-small">
+                    <p>💡 <strong>Hinweis:</strong> Unten findest du Textvorschläge zum Kopieren für deine E-Mail.</p>
+                </div>
+                <div id="textSuggestions" class="text-suggestions"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Petition Section -->
+    <section class="petition-section" id="petitionSection" style="display: none;">
+        <div class="container">
+            <div class="petition-container">
+                <h2 class="petition-title notranslate" id="petitionTitle">NO LABEL, NO DEAL – Mandatory Origin Labelling for Processed Foods in the EU</h2>
+                <p class="petition-disclaimer notranslate" id="petitionDisclaimer" style="display: none;">Englische Version ist maßgeblich; andere Sprachen sind automatische Übersetzungen.</p>
+                
+                <button id="petitionSignTop" class="btn-petition-primary notranslate" disabled>Jetzt unterzeichnen</button>
+                <p class="petition-pending-notice notranslate" id="petitionPendingNotice" style="display: none;">Unterzeichnung möglich nach offizieller Freigabe</p>
+                
+                <div id="google_translate_element" class="google-translate-hidden"></div>
+                <button id="translatePetitionBtn" class="btn-translate-petition notranslate">Text übersetzen</button>
+                
+                <div class="petition-content" id="petitionContent">
+                    <!-- Petitionstext wird hier eingefügt -->
+                </div>
+                
+                <button id="petitionSignBottom" class="btn-petition-secondary notranslate" disabled>Unterzeichnen</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer notranslate">
+        <div class="container">
+            <p><strong>Datenquelle:</strong> Europäisches Parlament (öffentlich)</p>
+            <p>Keine personenbezogenen Daten werden gespeichert.</p>
+            <div class="footer-links">
+                <a href="index.html" class="footer-link" id="homeLink">Home</a>
+                <span class="footer-separator">|</span>
+                <a href="impressum.html" class="footer-link">Impressum</a>
+                <span class="footer-separator">|</span>
+                <a href="datenschutz.html" class="footer-link">Datenschutz</a>
+                <span class="footer-separator">|</span>
+                <a href="https://www.facebook.com/share/17iPCQyG59/?mibextid=wwXIfr" class="social-icon" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                    </svg>
+                </a>
+                <a href="https://www.facebook.com/share/17iPCQyG59/?mibextid=wwXIfr" class="social-icon" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                    </svg>
+                </a>
+                <a href="https://www.tiktok.com/@ewald_mayr?_r=1&_t=ZN-934aSLCnkBS" class="social-icon" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="translations.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+

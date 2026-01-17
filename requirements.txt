@@ -1,0 +1,4 @@
+# Empty requirements file - we don't need any Python packages
+# This file ensures Railway detects this as a Python project
+
+
